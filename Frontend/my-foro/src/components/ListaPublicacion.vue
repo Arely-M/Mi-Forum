@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Publicaciones</h1>
+    <h1>Publicaciones </h1>
     <b-col v-for="(publicacion, index) in listadoPublicaciones" :key="index">
       <b-card>
         <b-card-title> {{ publicacion.titulo }}</b-card-title>
