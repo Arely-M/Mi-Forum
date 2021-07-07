@@ -16,7 +16,7 @@
       <b-row class="mb-4">
         <div class="col-12">
           <b-col>
-            <label class="fixed-left" for="exampleInputEmail1">Tema</label>
+            <label class="fixed-left" for="exampleInputEmail1">Tema1</label>
           </b-col>
           <b-col>
             <input
